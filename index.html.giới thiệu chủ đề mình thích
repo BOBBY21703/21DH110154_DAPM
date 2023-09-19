@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Âm nhạc</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #a09016;
+        }
+        h1 {
+            color: #37510f;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #666666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Âm nhạc</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Tôi là Bảo</h2>
+            <p>Web ưa thích của tôi là Bán beat nhạc . Tôi yêu thích nó vì tôi là người làm nhạc.</p>
+        </section>
+        <section>
+            <h2>Lý do tôi thích bán beat nhạc</h2>
+            <p>Trong phần này, tôi muốn chia sẻ một số thông tin chính về web bán beat nhạc:</p>
+            <ul>
+                <li>Đăng lên những bản phối bởi những producer </li>
+                <li>Quản lý đơn đặt hàng</li>
+                <li>Giao tiếp với nghệ sĩ</li>
+            </ul>
+    </main>
+    <footer>
+        <p>© 2023 Quốc Bảo</p>
+    </footer>
+</body>
+</html>
