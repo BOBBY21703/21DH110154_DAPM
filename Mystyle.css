@@ -1,0 +1,67 @@
+﻿
+/* Reset CSS */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+    header h1 {
+        font-size: 36px;
+    }
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+        }
+
+/* Main Content Styles */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    main h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
